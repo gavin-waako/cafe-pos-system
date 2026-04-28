@@ -1,5 +1,5 @@
 package models;
 
-public v {
+public class Users {
     
 }
